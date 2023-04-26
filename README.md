@@ -69,16 +69,16 @@ Quando forem geradas novas tabelas OU alterar algum campo em alguma tabela no sc
 
 ## Conteúdo Abordado
 
-Aprofundando em Node.js e Express
-Lendo Arquivos 
-Uploads
-Logger
-ENV
-Helpers
-Constantes
-Migrations
-Seeders
-Raw-Queries
+- Aprofundando em Node.js e Express
+- Lendo Arquivos 
+- Uploads
+- Logger
+- ENV
+- Helpers
+- Constantes
+- Migrations
+- Seeders
+- Raw-Queries
     
 ## Autores
 
