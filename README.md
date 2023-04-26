@@ -65,6 +65,20 @@ Quando forem geradas novas tabelas OU alterar algum campo em alguma tabela no sc
     1 - Feche o vscode e abra novamente OU
     
     2 - Abrir um arquivo .ts → CTRL + SHIFT + P → Typescript: Reiniciar Servidor TS → clica e aguarda
+
+
+## Conteúdo Abordado
+
+Aprofundando em Node.js e Express
+Lendo Arquivos 
+Uploads
+Logger
+ENV
+Helpers
+Constantes
+Migrations
+Seeders
+Raw-Queries
     
 ## Autores
 
